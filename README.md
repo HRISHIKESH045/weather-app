@@ -15,7 +15,7 @@ To get started with the project, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/HRISHIKESH045/real-time-weather-app.git
+   git clone https://hrishikesh045.github.io/weather-app.git
    
 2. **Navigate to the project directory**:
 
